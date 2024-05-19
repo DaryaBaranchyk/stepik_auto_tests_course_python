@@ -1,2 +1,2 @@
 # stepik_auto_tests_course_python
-New Course
+Lessons for test course python
